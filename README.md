@@ -1,1 +1,1 @@
-# pytorch_semantic_volume_render
+# PyTorch Semantic Volume Render
